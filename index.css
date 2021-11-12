@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(44, 156, 44);
+    color: white;
+    margin-top: 150px;
+}
+h1
+{
+    color: black;
+}
+
+button{
+    border: solid red 1px;
+    background-color: rosybrown;
+    color: rgb(10, 85, 77);
+    padding: 10px;
+    width: 150px;
+    margin-top: 5px;
+}
